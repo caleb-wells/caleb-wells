@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Caleb Wells
+# 👋 Hey, I'm Caleb
 
 I'm a senior Computer Science student at Boise State University and a software engineer passionate about **machine learning, AI, and scalable systems**. I enjoy working on projects that blend **practical engineering** with **new technologies**, whether that’s backend services, mobile apps, or personal hardware experiments.
 
