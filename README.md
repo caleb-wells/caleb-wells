@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm a senior Computer Science student at Boise State University and a software engineer passionate about **machine learning, and AI.
+I'm a senior Computer Science student at Boise State University and a software engineer passionate about **machine learning, and AI**.
 
 ---
 
