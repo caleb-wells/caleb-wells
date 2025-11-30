@@ -1,9 +1,5 @@
 # Hey there 👋
 
-I'm a senior Computer Science student at Boise State University and a software engineer passionate about **machine learning, and AI**.
-
----
-
 ## 🚀 What I’m Working On
 - **AI & Machine Learning** – Exploring ML/AI applications with a focus on automation and real-world problem solving.  
 - **Full-Stack & Cloud** – Building secure, multi-tenant SaaS platforms on AWS (Aurora, Lambda, API Gateway, EventBridge, etc.).  
