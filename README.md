@@ -9,9 +9,9 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C, C++, Java, Python, Swift, TypeScript/JavaScript  
-- **Frameworks & Tools:** React Native, Node.js, Ionic, Nx/Turborepo, Docker  
-- **Cloud & DevOps:** AWS (Aurora, EC2, Lambda), Nginx, CI/CD pipelines  
-- **Hardware/IoT:** Arduino, MQTT, Home Assistant integrations  
+- **Languages:** C, C++, Java, Python, Swift, TypeScript/JavaScript, Rust
+- **Frameworks & Tools:** React, React Native, Node.js, Ionic, Nx/Turborepo, Docker  
+- **Cloud & DevOps:** AWS (Aurora, EC2, ECS/EKS, Fargate, Lambda), Nginx, CI/CD pipelines  
+- **Hardware/IoT:** Arduino, MQTT, Home Lab & Automation
 
 ---
