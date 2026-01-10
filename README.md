@@ -13,5 +13,3 @@
 - **Frameworks & Tools:** React, React Native, Node.js, Ionic, Nx/Turborepo, Docker  
 - **Cloud & DevOps:** AWS (Aurora, EC2, ECS/EKS, Fargate, Lambda), Nginx, CI/CD pipelines  
 - **Hardware/IoT:** Arduino, MQTT, Home Lab & Automation
-
----
